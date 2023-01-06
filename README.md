@@ -59,7 +59,7 @@ This is how to communicate with the Rocky Linux testing community to ask questio
 
 ## Online Testing Meetings
 
-The RLTT has meetings online every other Thursday. With scheduled times alternating between morning and evening to accommodate testers in different regions of the world. The meetings and chat, are all in English. To join a meeting, you can access the public RESG calendar:
+The RLTT has meetings online every other Thursday. With scheduled times alternating between morning and evening to accommodate testers in different regions of the world. The meetings and chat, are all in English. To join a meeting, you can access the public RESF (Rocky Enterprise Software Foundation) calendar:
 [https://calendar.google.com/calendar/u/0/embed?src=c_2e1oqh6t0i6sqhja5nu9lq8lgo@group.calendar.google.com](url)
 
 To get involved, you are encouraged to sign up for the Rocky Linux chat and join the Testing Team Channel.
